@@ -117,8 +117,3 @@ After deployment, Terraform displays:
 - Subnet ID
 - S3 Bucket Name
 
----
-
-**Your Name**
-
-GitHub: https://github.com/yourusername
